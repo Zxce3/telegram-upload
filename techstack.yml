@@ -1,0 +1,131 @@
+repo_name: Zxce3/telegram-upload
+report_id: 6afb5d84006d47e23d9405df965c7a14
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-08T17:12:00+00:00'
+requested_by: Nekmo
+provider: github
+branch: master
+detected_tools_count: 10
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload
+  detection_source: Repo Metadata
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload/blob/master/requirements-dev.txt
+  detection_source: requirements-dev.txt
+  last_updated_by: Nekmo
+  last_updated_on: 2020-11-18 22:36:52.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload/blob/master/.github/workflows/docker.yml
+  detection_source: ".github/workflows/docker.yml"
+  last_updated_by: Nekmo
+  last_updated_on: 2021-09-08 23:01:39.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Zxce3/telegram-upload/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Nekmo
+  last_updated_on: 2018-03-26 15:28:55.000000000 Z
+- name: click
+  description: Composable command line interface toolkit
+  package_url: https://pypi.org/project/click
+  version: '6.0'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Nekmo
+  last_updated_on: 2018-03-26 15:28:55.000000000 Z
+- name: hachoir
+  description: Package of Hachoir parsers used to open binary files
+  package_url: https://pypi.org/project/hachoir
+  license: GPL-2.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Nekmo
+  last_updated_on: 2019-07-29 22:48:38.000000000 Z
+- name: prompt_toolkit
+  description: Library for building powerful interactive command lines in Python
+  package_url: https://pypi.org/project/prompt_toolkit
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19973/default_7bdb5665dee17d53e3a12b8e2b533bcdb6f55a47.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Nekmo
+  last_updated_on: 2021-09-11 01:48:31.000000000 Z
+- name: scandir
+  description: Scandir, a better directory iterator and faster os.walk
+  package_url: https://pypi.org/project/scandir
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20172/default_61c5587692a15177a925ec9469e353b56dcc7b6a.png
+  detection_source_url: https://github.com/Zxce3/telegram-upload/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Nekmo
+  last_updated_on: 2020-05-06 22:08:49.000000000 Z
